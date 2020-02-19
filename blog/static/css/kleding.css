@@ -1,13 +1,15 @@
 
-body{background-size: 20%;
+body{
     background-repeat: no-repeat;
     background-image: url(kleding.jpg),
     url(kleding2.jpg),
-    url(kleding3.jpg)
+    url(kleding3.jpg),
+    url(kleding4.jpg);
+    background-size: 25%
     ;      
     background-position: 
-    30% 150,
-    30% 350,
-    60% 150;
-    
+    35% 150,
+    35% 350,
+    70% 150,
+    97% 150;
 } 
